@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    	<dc:title id="en_title" xml:lang="en-gb">The Diligent Bugs of Kook Bog</dc:title>
+		<dc:creator id="creator_aut" opf:file-as="SURNAME, FIRST NAME" opf:role="aut">Thistleton, J. Ellery</dc:creator>
+		<dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="uid" opf:scheme="ISBN">urn:isbn:ISBN NUMBER (no hyphens)</dc:identifier>
+		<dc:description id="en_description" xml:lang="en-us">eBook, NUMBER pages</dc:description>
+		<dc:publisher id="en_publisher" xml:lang="en-us">Kook Bog Books</dc:publisher>
+		<dc:date id="date_1" opf:event="creation">2017</dc:date>
+		<dc:rights id="en_rights" xml:lang="en-us">Copyright 2017 Thistleton, J. Ellery/Kook Bog Books</dc:rights>
+		<dc:language id="en_language">en-gb</dc:language>
+		<dc:type id="en_type_1">Non-fiction</dc:type>
+	    <meta name="cover" content="coverimage" />
+	</metadata>
+	<manifest>
+		<item id="toc" media-type="application/x-dtbncx+xml" href="toc.ncx"></item>
+		<item id="item1" media-type="application/xhtml+xml" href="1-cover.xhtml"></item>
+		<item id="item2" media-type="application/xhtml+xml" href="2-copyright.xhtml"></item>
+		<item id="item3" media-type="application/xhtml+xml" href="3-TOC.xhtml"></item>
+		<item id="item4" media-type="application/xhtml+xml" href="4-chap-open1.xhtml"></item>
+		<item id="item5" media-type="application/xhtml+xml" href="5-chapter1.xhtml"></item>
+		<item id="item6" media-type="application/xhtml+xml" href="6-chap-open2.xhtml"></item>
+		<item id="item7" media-type="application/xhtml+xml" href="7-chapter2.xhtml"></item>
+		<item id="item8" media-type="application/xhtml+xml" href="8-chap-open3.xhtml"></item>
+		<item id="item9" media-type="application/xhtml+xml" href="9-chapter3.xhtml"></item>
+		<item id="item10" media-type="application/xhtml+xml" href="10-chap-open4.xhtml"></item>
+		<item id="item11" media-type="application/xhtml+xml" href="11-chapter4.xhtml"></item>
+		<item id="item12" media-type="application/xhtml+xml" href="12-chap-open5.xhtml"></item>
+		<item id="item13" media-type="application/xhtml+xml" href="13-chapter5.xhtml"></item>
+    <item id="item14" media-type="application/xhtml+xml" href="14-chap-open6.xhtml"></item>
+    <item id="item15" media-type="application/xhtml+xml" href="15-chapter6.xhtml"></item>
+    <item id="item16" media-type="application/xhtml+xml" href="16-chap-open7.xhtml"></item>
+    <item id="item17" media-type="application/xhtml+xml" href="17-chapter7.xhtml"></item>
+    <item id="item18" media-type="application/xhtml+xml" href="18-chap-open8.xhtml"></item>
+    <item id="item19" media-type="application/xhtml+xml" href="19-chapter8.xhtml"></item>
+    <item id="item20" media-type="application/xhtml+xml" href="20-chap-open9.xhtml"></item>
+    <item id="item21" media-type="application/xhtml+xml" href="21-chapter9.xhtml"></item>
+    <item id="item22" media-type="application/xhtml+xml" href="22-chap-open10.xhtml"></item>
+    <item id="item23" media-type="application/xhtml+xml" href="23-chapter10.xhtml"></item>
+    <item id="item24" media-type="application/xhtml+xml" href="24-chap-open11.xhtml"></item>
+    <item id="item25" media-type="application/xhtml+xml" href="25-chapter11.xhtml"></item>
+    <item id="item26" media-type="application/xhtml+xml" href="26-chap-open12.xhtml"></item>
+    <item id="item27" media-type="application/xhtml+xml" href="27-chapter12.xhtml"></item>
+    <item id="item28" media-type="application/xhtml+xml" href="28-chap-open13.xhtml"></item>
+    <item id="item29" media-type="application/xhtml+xml" href="29-chapter13.xhtml"></item>
+    <item id="item30" media-type="application/xhtml+xml" href="30-chap-open14.xhtml"></item>
+    <item id="item31" media-type="application/xhtml+xml" href="31-chapter14.xhtml"></item>
+    <item id="item32" media-type="application/xhtml+xml" href="32-chap-open15.xhtml"></item>
+    <item id="item33" media-type="application/xhtml+xml" href="33-chapter15.xhtml"></item>
+    <item id="item34" media-type="application/xhtml+xml" href="34-chap-open16.xhtml"></item>
+    <item id="item35" media-type="application/xhtml+xml" href="35-chapter16.xhtml"></item>
+    <item id="item36" media-type="application/xhtml+xml" href="36-chap-open17.xhtml"></item>
+    <item id="item37" media-type="application/xhtml+xml" href="37-chapter17.xhtml"></item>
+    <item id="item38" media-type="application/xhtml+xml" href="38-chap-open18.xhtml"></item>
+    <item id="item39" media-type="application/xhtml+xml" href="39-chapter18.xhtml"></item>
+    <item id="item40" media-type="application/xhtml+xml" href="40-chap-open19.xhtml"></item>
+    <item id="item41" media-type="application/xhtml+xml" href="41-chapter19.xhtml"></item>
+    <item id="item42" media-type="application/xhtml+xml" href="42-chap-open20.xhtml"></item>
+    <item id="item43" media-type="application/xhtml+xml" href="43-chapter20.xhtml"></item>
+    <item id="item44" media-type="application/xhtml+xml" href="44-chap-open21.xhtml"></item>
+    <item id="item45" media-type="application/xhtml+xml" href="45-chapter21.xhtml"></item>
+    <item id="item46" media-type="application/xhtml+xml" href="46-chap-open22.xhtml"></item>
+    <item id="item47" media-type="application/xhtml+xml" href="47-chapter22.xhtml"></item>
+    <item id="item48" media-type="application/xhtml+xml" href="48-chap-open23.xhtml"></item>
+    <item id="item49" media-type="application/xhtml+xml" href="49-chapter23.xhtml"></item>
+    <item id="item50" media-type="application/xhtml+xml" href="50-chap-open24.xhtml"></item>
+    <item id="item51" media-type="application/xhtml+xml" href="51-chapter24.xhtml"></item>
+    <item id="item52" media-type="application/xhtml+xml" href="52-chap-open25.xhtml"></item>
+    <item id="item53" media-type="application/xhtml+xml" href="53-chapter25.xhtml"></item>
+		<item id="coverimage" href="cover.jpg" media-type="image/jpeg"></item>
+		<item id="image1" href="img-1-1.jpg" media-type="image/jpeg"></item>
+		<item id="css" href="styles.css" media-type="text/css"></item>
+	</manifest>
+	<spine toc="toc">
+		<itemref idref="item1"/>
+		<itemref idref="item2"/>
+		<itemref idref="item3"/>
+		<itemref idref="item4"/>
+		<itemref idref="item5"/>
+    <itemref idref="item6"/>
+    <itemref idref="item7"/>
+    <itemref idref="item8"/>
+    <itemref idref="item9"/>
+		<itemref idref="item10"/>
+		<itemref idref="item11"/>
+		<itemref idref="item12"/>
+		<itemref idref="item13"/>
+    <itemref idref="item14"/>
+    <itemref idref="item15"/>
+    <itemref idref="item16"/>
+    <itemref idref="item17"/>
+    <itemref idref="item18"/>
+    <itemref idref="item19"/>
+    <itemref idref="item20"/>
+    <itemref idref="item21"/>
+    <itemref idref="item22"/>
+    <itemref idref="item23"/>
+    <itemref idref="item24"/>
+    <itemref idref="item25"/>
+    <itemref idref="item26"/>
+    <itemref idref="item27"/>
+    <itemref idref="item28"/>
+    <itemref idref="item29"/>
+    <itemref idref="item30"/>
+    <itemref idref="item31"/>
+    <itemref idref="item32"/>
+    <itemref idref="item33"/>
+    <itemref idref="item34"/>
+    <itemref idref="item35"/>
+    <itemref idref="item36"/>
+    <itemref idref="item37"/>
+    <itemref idref="item38"/>
+    <itemref idref="item39"/>
+    <itemref idref="item40"/>
+    <itemref idref="item41"/>
+    <itemref idref="item42"/>
+    <itemref idref="item43"/>
+    <itemref idref="item44"/>
+    <itemref idref="item45"/>
+    <itemref idref="item46"/>
+    <itemref idref="item47"/>
+    <itemref idref="item48"/>
+    <itemref idref="item49"/>
+    <itemref idref="item50"/>
+    <itemref idref="item51"/>
+    <itemref idref="item52"/>
+    <itemref idref="item53"/>
+	</spine>
+	<guide>
+		<reference href="1-cover.xhtml" type="cover" title="Cover"/>
+	</guide>
+</package>
+
+<!-- EF19031D-F375-40F2-B92B-BED74DB962858 -->
