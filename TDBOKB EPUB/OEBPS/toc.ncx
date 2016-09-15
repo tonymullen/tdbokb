@@ -17,55 +17,35 @@
 	<navMap>
 		<navPoint id="navPoint-1" playOrder="1">
 			<navLabel><text>Cover</text></navLabel>
-			<content src="1-cover.xhtml"/>
+			<content src="001-cover.xhtml"/>
 		</navPoint>
 		<navPoint id="navPoint-2" playOrder="2">
 			<navLabel><text>Copyright</text></navLabel>
-			<content src="2-copyright.xhtml"/>
+			<content src="002-copyright.xhtml"/>
 		</navPoint>
 		<navPoint id="navPoint-3" playOrder="3">
 			<navLabel><text>Contents</text></navLabel>
-			<content src="3-TOC.xhtml"/>
+			<content src="003-TOC.xhtml"/>
 		</navPoint>
 		<navPoint id="navPoint-4" playOrder="4">
-			<navLabel><text>Foreword</text></navLabel>
-			<content src="4-chap-open1.xhtml"/>
+			<navLabel><text>Chapter 1. </text></navLabel>
+			<content src="01-chapter1.xhtml"/>
 		</navPoint>
 		<navPoint id="navPoint-5" playOrder="5">
-			<navLabel><text>Foreword</text></navLabel>
-			<content src="5-chapter1.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-6" playOrder="6">
 			<navLabel><text>Introduction</text></navLabel>
-			<content src="6-chap-open2.xhtml"/>
+			<content src="02-chapter2.xhtml"/>
+		</navPoint>
+			<navPoint id="navPoint-6" playOrder="6">
+			<navLabel><text>Chapter 1. CHAPTER TITLE</text></navLabel>
+			<content src="03-chapter3.xhtml"/>
 		</navPoint>
 		<navPoint id="navPoint-7" playOrder="7">
-			<navLabel><text>Introduction</text></navLabel>
-			<content src="7-chapter2.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-8" playOrder="8">
-			<navLabel><text>Chapter 1. Introduction</text></navLabel>
-			<content src="8-chap-open3.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-9" playOrder="9">
-			<navLabel><text>Chapter 1. CHAPTER TITLE</text></navLabel>
-			<content src="9-chapter3.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-10" playOrder="10">
-			<navLabel><text>Chapter 2. Introduction</text></navLabel>
-			<content src="10-chap-open4.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-11" playOrder="11">
 			<navLabel><text>Chapter 2. CHAPTER TITLE</text></navLabel>
-			<content src="11-chapter4.xhtml"/>
+			<content src="04-chapter4.xhtml"/>
 		</navPoint>
-		<navPoint id="navPoint-12" playOrder="12">
-			<navLabel><text>Chapter 3. Introduction</text></navLabel>
-			<content src="12-chap-open5.xhtml"/>
-		</navPoint>
-		<navPoint id="navPoint-13" playOrder="13">
+			<navPoint id="navPoint-8" playOrder="8">
 			<navLabel><text>Chapter 3. CHAPTER TITLE</text></navLabel>
-			<content src="13-chapter5.xhtml"/>
+			<content src="05-chapter5.xhtml"/>
 		</navPoint>
 	</navMap>
 
