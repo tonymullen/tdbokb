@@ -7,7 +7,11 @@ body {
 }
 
 .aside, h1, h2, sup, .footnotes, cite, .callout, h5, .superhead {
-	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-family: Palatino, serif;
+}
+
+h1 {
+  text-align: center;
 }
 
 p, li, blockquote, h3 {
@@ -17,7 +21,7 @@ p, li, blockquote, h3 {
 }
 
 a:link, a:visited, sup {
-	color: rgb(0,159,238) !important;
+color: rgb(102, 49, 0); !important;
 	text-decoration: underline;
 }
 
@@ -149,13 +153,14 @@ img + img {
 }
 
 h1 {
-	text-transform: uppercase;
 	letter-spacing: 0.02em;
 	word-wrap: normal;
+	font-style: italic;
 	font-size: 1.8em;
 	line-height: 1.2em;
 	margin: 0 0 2em;
 }
+
 
 .tools-head {
 	margin: 0 0 1em;
@@ -336,12 +341,11 @@ img.right {
 /* TOC / Part Styles */
 
 #TOC li, .part li {
-	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-family: serif;
 	font-size: 1.2em;
 }
 
 #TOC li {
-	text-transform: uppercase;
 	margin-bottom: 1em;
 	list-style: none;
 	font-weight: bold;
@@ -529,4 +533,14 @@ td code {
 .answer {
 	margin-left: 10px;
 	font-weight: 700;
+}
+
+
+img.break {
+  height: 60px;
+}
+
+div.break {
+  width: 100%;
+  text-align: center;
 }
