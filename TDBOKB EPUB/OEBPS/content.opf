@@ -43,6 +43,21 @@
     <item id="item24" media-type="application/xhtml+xml" href="24-chapter24.xhtml"></item>
     <item id="item25" media-type="application/xhtml+xml" href="25-chapter25.xhtml"></item>
 		<item id="coverimage" href="cover.jpg" media-type="image/jpeg"></item>
+    <item id="bug1" href="bug1.png" media-type="image/png"></item>
+    <item id="bug2" href="bug2.png" media-type="image/png"></item>
+    <item id="bug3" href="bug3.png" media-type="image/png"></item>
+    <item id="bug4" href="bug4.png" media-type="image/png"></item>
+    <item id="bug5" href="bug5.png" media-type="image/png"></item>
+    <item id="bug6" href="bug6.png" media-type="image/png"></item>
+    <item id="bug7" href="bug7.png" media-type="image/png"></item>
+    <item id="bug8" href="bug8.png" media-type="image/png"></item>
+    <item id="bug9" href="bug9.png" media-type="image/png"></item>
+    <item id="bug10" href="bug10.png" media-type="image/png"></item>
+    <item id="bug11" href="bug11.png" media-type="image/png"></item>
+    <item id="bug12" href="bug12.png" media-type="image/png"></item>
+    <item id="bug13" href="bug13.png" media-type="image/png"></item>
+    <item id="bug14" href="bug14.png" media-type="image/png"></item>
+    <item id="bug15" href="bug15.png" media-type="image/png"></item>
 		<item id="css" href="styles.css" media-type="text/css"></item>
 	</manifest>
 	<spine toc="toc">

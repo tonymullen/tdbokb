@@ -21,7 +21,7 @@ p, li, blockquote, h3 {
 }
 
 a:link, a:visited, sup {
-color: rgb(102, 49, 0); !important;
+	color: rgb(102, 49, 0) !important;
 	text-decoration: underline;
 }
 
